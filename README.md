@@ -10,10 +10,9 @@ This project undertakes the critical task of analyzing and predicting employee a
 4. [Data Processing](#data-processing)
 5. [Machine Learning Algorithms](#machine-learning-algorithms)
 6. [Evaluation Criteria](#evaluation-criteria)
-7. [Installation](#installation)
-8. [Usage](#usage)
-9. [Contributing](#contributing)
-10. [License](#license)
+7. [Conclusion](#Conclusion)
+8. [Installation](#installation)
+9. [Usage](#usage)
 
 #### Objective
 The primary objective of this project is to analyze patterns and trends in employee data to predict attrition. By identifying the key indicators of employee turnover, organizations can implement strategies to enhance employee retention and satisfaction.

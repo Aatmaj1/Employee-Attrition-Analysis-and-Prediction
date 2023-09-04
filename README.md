@@ -36,7 +36,7 @@ The XGBoost feature importance curve unveiled that compensation, raise, and job 
 #### Installation
 - Python 3.x
 - Libraries: pandas, numpy, seaborn, matplotlib
-- Dataset: [Kaggle]([https://www.kaggle.com/](https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset)) (exact link to be added)
+- Dataset: [Kaggle]([https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset]) (exact link to be added)
 
 #### Usage
 To use this project, clone the repository and run the Jupyter Notebook in a suitable Python environment. Follow the instructions in the notebook for data analysis and predictive modeling.
